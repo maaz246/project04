@@ -9,12 +9,74 @@
  */
 {
   "sections": {
+    "1754917067312b5dc5": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_12a94a4_zxJEW9": {
+          "type": "ai_gen_block_12a94a4",
+          "settings": {
+            "featured_category": "Featured",
+            "featured_headline": "The Future of Sustainable Fashion",
+            "featured_excerpt": "<p>Discover how innovative designers are revolutionizing the fashion industry with eco-friendly materials and ethical production practices that benefit both people and planet.</p>",
+            "featured_author": "Sarah Johnson",
+            "featured_date": "March 15, 2024",
+            "featured_link": "",
+            "secondary_category_1": "Style",
+            "secondary_title_1": "Spring Color Trends",
+            "secondary_author_1": "Emma Davis",
+            "secondary_date_1": "March 12, 2024",
+            "secondary_link_1": "",
+            "secondary_category_2": "Beauty",
+            "secondary_title_2": "Natural Skincare Routine",
+            "secondary_author_2": "Lisa Chen",
+            "secondary_date_2": "March 10, 2024",
+            "secondary_link_2": "",
+            "secondary_category_3": "Lifestyle",
+            "secondary_title_3": "Minimalist Wardrobe Guide",
+            "secondary_author_3": "Alex Turner",
+            "secondary_date_3": "March 8, 2024",
+            "secondary_link_3": "",
+            "secondary_category_4": "Trends",
+            "secondary_title_4": "Vintage Revival",
+            "secondary_author_4": "Maya Patel",
+            "secondary_date_4": "March 5, 2024",
+            "secondary_link_4": "",
+            "background_color": "#ffffff",
+            "text_color": "#000000",
+            "category_color": "#666666",
+            "link_color": "#000f9f",
+            "link_hover_color": "#000000",
+            "border_color": "#e5e5e5",
+            "headline_font_size": 36,
+            "body_font_size": 16,
+            "category_font_size": 12,
+            "meta_font_size": 14,
+            "secondary_title_size": 16,
+            "secondary_category_size": 11,
+            "secondary_meta_size": 12,
+            "section_padding": 40,
+            "grid_gap": 40,
+            "content_spacing": 24,
+            "sidebar_spacing": 24,
+            "mobile_spacing": 32,
+            "image_border_radius": 8,
+            "secondary_image_radius": 6
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_12a94a4_zxJEW9"
+      ],
+      "settings": {}
+    },
     "main": {
       "type": "hello-world",
       "settings": {}
     }
   },
   "order": [
+    "1754917067312b5dc5",
     "main"
   ]
 }
